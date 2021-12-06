@@ -1,8 +1,8 @@
-### Contacts: <a href="https://t.me/vspetuhov" target="_blank">
-  <img align="left" alt="Vasily's Telegram" width="22px" src="https://commons.wikimedia.org/wiki/File:Telegram_logo.svg"/>
+### Contacts: <a href="https://t.me/vspetuhov">
+  <img align="left" alt="Vasily's Telegram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"/>
 </a>
-<a href="https://www.linkedin.com/in/vasily-petuhov-9710481a4/" target="_blank">
-  <img align="left" alt="Ibragim's LinkedIN" width="22px" src="https://commons.wikimedia.org/wiki/File:Linkedin_circle.svg"/>
+<a href="https://www.linkedin.com/in/vasily-petuhov-9710481a4/">
+  <img align="left" alt="Ibragim's LinkedIN" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Linkedin_circle.svg"/>
 </a>
 
 
