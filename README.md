@@ -1,4 +1,4 @@
-### Contacts:
+### Vasily Petuhov — iOS & macOS developer:
 <a href="https://t.me/vspetuhov">
   <img align="left" alt="Vasily's Telegram" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"/>
 </a>
