@@ -1,4 +1,4 @@
-### Vasily Petuhov — iOS & macOS developer:
+### Vasily Petuhov — iOS & macOS developer
 <a href="https://t.me/vspetuhov">
   <img align="left" alt="Vasily's Telegram" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"/>
 </a>
@@ -7,12 +7,12 @@
 </a>  
 <br /><br />
 
-### Companies:
+### Companies
 ![SBER](https://img.shields.io/badge/now-SBER-21A038?style=for-the-badge&logo=)  
 ![Postuf](https://img.shields.io/badge/2021-Postuf-black?style=for-the-badge)  
 ![ViewS](https://img.shields.io/badge/2020-ViewS-red?style=for-the-badge)
 
-### Pet Project:
+### Pet Project
 ![ScoreBoard](https://img.shields.io/badge/ScoreBoard-orange?style=for-the-badge)
 
 ### 🛠 Tech Stack
