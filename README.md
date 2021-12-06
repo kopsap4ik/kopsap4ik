@@ -1,4 +1,10 @@
-### Hi there 👋
+### Contacts: <a href="https://t.me/vspetuhov" target="_blank">
+  <img align="left" alt="Vasily's Telegram" width="22px" src="https://commons.wikimedia.org/wiki/File:Telegram_logo.svg"/>
+</a>
+<a href="https://www.linkedin.com/in/vasily-petuhov-9710481a4/" target="_blank">
+  <img align="left" alt="Ibragim's LinkedIN" width="22px" src="https://commons.wikimedia.org/wiki/File:Linkedin_circle.svg"/>
+</a>
+
 
 <!--
 **kopsap4ik/kopsap4ik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
