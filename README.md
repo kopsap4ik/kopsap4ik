@@ -6,10 +6,10 @@
 <a href="https://www.linkedin.com/in/vasily-petuhov-9710481a4/">
   <img align="left" alt="Ibragim's LinkedIN" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/c/ce/Linkedin_circle.svg"/>
 </a>  
-<br /><br />
+<br />
 
 ### Companies
-![SBER](https://img.shields.io/badge/now-SBER-21A038?style=for-the-badge&logo=)  
+![SBER](https://img.shields.io/badge/2021/now-SBER-21A038?style=for-the-badge&logo=)  
 ![Postuf](https://img.shields.io/badge/2021-Postuf-black?style=for-the-badge)  
 ![ViewS](https://img.shields.io/badge/2020-ViewS-red?style=for-the-badge)
 
