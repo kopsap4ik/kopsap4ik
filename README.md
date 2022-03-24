@@ -1,4 +1,5 @@
 ### Vasily Petuhov — iOS & macOS developer
+[![HH](https://img.shields.io/badge/HH.ru-red?style=for-the-badge&logo=)](https://hh.ru/resume/f88efe71ff087460540039ed1f62344c414e55)
 <a href="https://t.me/vspetuhov">
   <img align="left" alt="Vasily's Telegram" width="34px" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg"/>
 </a>
