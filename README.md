@@ -13,7 +13,7 @@
 ![ViewS](https://img.shields.io/badge/2020-ViewS-red?style=for-the-badge)
 
 ### Pet Project
-![ScoreBoard](https://img.shields.io/badge/ScoreBoard-orange?style=for-the-badge)
+[![ScoreBoard](https://img.shields.io/badge/ScoreBoard-orange?style=for-the-badge)](https://github.com/kopsap4ik/ScoreBoard)
 
 ### 🛠 Tech Stack
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -27,8 +27,7 @@
 ![SWIFTUI](https://img.shields.io/badge/-SwiftUI-05122A?style=flat&logo=swiftui)&nbsp;
 <br />
 ![Git-Flow](https://img.shields.io/badge/-GitFlow-05122A?style=flat&logo=GitFlow)&nbsp;
-
-<!-- ![Objective-C](https://img.shields.io/badge/-ObjectiveC-05122A?style=flat&logo=ObjectiveC)&nbsp; -->
+![Objective-C](https://img.shields.io/badge/-ObjectiveC-05122A?style=flat&logo=ObjectiveC)&nbsp;
 <!-- ![Combine](https://img.shields.io/badge/-Combine-05122A?style=flat&logo=combine)&nbsp; -->
 
 <!-- #### Frameworks
@@ -52,8 +51,8 @@
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=postman)&nbsp;
 ![Charles](https://img.shields.io/badge/-Charles-05122A?style=flat&logo=Charles)&nbsp;
-<!-- ![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)&nbsp;
-![Reveal](https://img.shields.io/badge/-Reveal-05122A?style=flat&logo=reveal)&nbsp; -->
+![Trello](https://img.shields.io/badge/-Trello-05122A?style=flat&logo=trello)&nbsp;
+<!-- ![Reveal](https://img.shields.io/badge/-Reveal-05122A?style=flat&logo=reveal)&nbsp; -->
 
 
 <!--
