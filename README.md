@@ -32,7 +32,7 @@
 ![Swiftlint](https://img.shields.io/badge/-Swiftlint-05122A?style=flat&logo=Swiftlint)&nbsp;
 <!-- ![Combine](https://img.shields.io/badge/-Combine-05122A?style=flat&logo=combine)&nbsp; -->
 
-#### Architecture
+### Architecture
 ![MVC](https://img.shields.io/badge/-MVC-05122A?style=flat&logo=MVC)&nbsp;
 ![MVP](https://img.shields.io/badge/-MVP-05122A?style=flat&logo=MVP)&nbsp;
 ![Clean Swift](https://img.shields.io/badge/-CleanSwift-05122A?style=flat&logo=CleanSwift)&nbsp;
