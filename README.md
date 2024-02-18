@@ -14,7 +14,7 @@
 ![ViewS](https://img.shields.io/badge/2020-ViewS-red?style=for-the-badge)
 
 ### Pet Project
-[![ScoreBoard](https://img.shields.io/badge/ScoreBoard-orange?style=for-the-badge)](https://github.com/kopsap4ik/ScoreBoard)
+[![ScoreBoard](https://img.shields.io/badge/ScoreBoard-orange?style=for-the-badge)](https://scoreboardmac.github.io/)
 
 ### 🛠 Tech Stack
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
